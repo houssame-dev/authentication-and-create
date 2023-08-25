@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+  }
+  
+  .label {
+    max-width: 300px;
+    margin-inline: auto;
+    margin-block: 20px;
+  }
+  
+  #create-user-btn {
+    max-width: 200px;
+    margin-inline: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  #list-group{
+      min-width: 400px;
+      margin-inline: auto;
+      margin-block: 5px;
+  }
+
